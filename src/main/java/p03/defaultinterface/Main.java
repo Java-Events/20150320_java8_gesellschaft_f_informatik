@@ -1,5 +1,8 @@
 package p03.defaultinterface;
 
+import p03.defaultinterface.Interface1;
+import p03.defaultinterface.Interface2;
+
 /**
  * Created by ccw on 20.03.15.
  */

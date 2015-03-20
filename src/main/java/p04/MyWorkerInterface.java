@@ -1,4 +1,4 @@
-package org.rapidpm.course.corejava.pattern.structural.adapter.p04;
+package p04;
 
 import java.time.Instant;
 
