@@ -1,4 +1,4 @@
-package org.rapidpm.course.corejava.pattern.structural.adapter.p04;
+package p04;
 
 public class MyWorker implements MyWorkerInterface {
 	public static void main(String[] args) {
