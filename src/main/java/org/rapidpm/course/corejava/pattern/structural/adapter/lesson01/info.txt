@@ -1,0 +1,5 @@
+
+Schreibe einen Adapter um Collections als Eingabeparameter zu verwenden.
+
+Loesung bitte in einem Sub-Pkg bestehend auf p  und Deiner laufenden Nummer.
+z.B. p02 - verwende eine führende Null wenn Du eine Zahl von 1 bis 9 hast.
