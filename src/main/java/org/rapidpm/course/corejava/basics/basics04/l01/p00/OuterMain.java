@@ -8,5 +8,9 @@ public class OuterMain {
         Main.ChildA childA = new Main.ChildA();
         childA.workA();
         childA.workB();
+
+        new Main().new ChildB().workA();
+        new Main().new ChildB().workB();
+
     }
 }

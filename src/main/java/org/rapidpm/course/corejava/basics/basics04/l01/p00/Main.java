@@ -18,11 +18,14 @@ public class Main {
             System.out.println( this.getClass().getSimpleName());
         }
         public void workB(){
-            System.out.println(ChildA.class.getSimpleName());
+            System.out.println(ChildB.class.getSimpleName());
         }
     }
 
 
+    public class Key{
+        private int a;
+    }
 
 
 
@@ -30,6 +33,11 @@ public class Main {
         ChildA childA = new ChildA();
         childA.workA();
         childA.workB();
+
+        Main main = new Main();
+        ChildB childB = main.new ChildB();
+
+
     }
 
 
